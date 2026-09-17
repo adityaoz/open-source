@@ -9,4 +9,5 @@ A beginner-friendly repository to make your first open-source contribution.
 ## Contributors
 > Add **only your name** below
 
+-ozalwaraditya
 -me
